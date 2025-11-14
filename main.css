@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MyCustomFontName';
+  src: url(./fonts/B-Morvarid/B\ Morvarid_0.ttf);
+}
+
+body {
+  font-family: 'MyCustomFontName';
+}
+
+
+@font-face {
+  font-family: 'MyFont';
+  src: url(./);
+}
